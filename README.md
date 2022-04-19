@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @damionaiello
-- 👀 I’m interested in ... Cybersecurity (DFIR)
+- 👀 I’m interested in ... Cybersecurity (GRC)
 - 🌱 I’m currently applying to learn at ... the SANS Technical Institute
 - 📫 How to reach me ... via LinkedIn
 
